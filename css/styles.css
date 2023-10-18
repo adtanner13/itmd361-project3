@@ -22,12 +22,9 @@ html {
   width: 50%;
 }
 
-a:link {
+a:link, a:visited {
   color: #395e64;
-}
-
-a:visited {
-  color: #395e64;
+  text-decoration: none;
 }
 
 a:hover {
