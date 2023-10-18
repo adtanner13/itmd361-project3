@@ -66,9 +66,10 @@ footer {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  background-color: #C3D898;
+  background-color: #1C3144;
   width: 25%;
   padding: 1%;
+  text-align: center;
 }
 
 img {
