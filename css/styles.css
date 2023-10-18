@@ -21,6 +21,18 @@ html {
   background-color: #1C3144;
 }
 
+a:link {
+  color: #3B5053;
+}
+
+a:visited {
+  color: #3B5053;
+}
+
+a:hover {
+  color: #C3D898;
+}
+
 body {
   font-family: Georgia;
   margin-bottom: 2%;
@@ -33,4 +45,8 @@ section {
   background-color: #C3D898;
   border-radius: 5px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.subheading {
+  font-weight: bold;
 }
