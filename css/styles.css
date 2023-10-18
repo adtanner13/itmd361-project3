@@ -2,7 +2,7 @@
   Dark Red: #550C18
   Light Green: #C3D898
   Dark Green: #7EA16B
-  Light Blue: #3B5053
+  Light Blue: #395e64
   Dark Blue: #1C3144
 */
 
@@ -16,17 +16,17 @@ html {
 
 .navbar {
   text-align: center;
-  color: #3B5053;
+  color: #395e64;
   padding: 2%;
   background-color: #1C3144;
 }
 
 a:link {
-  color: #3B5053;
+  color: #395e64;
 }
 
 a:visited {
-  color: #3B5053;
+  color: #395e64;
 }
 
 a:hover {
