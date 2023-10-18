@@ -30,7 +30,7 @@ a:visited {
 }
 
 a:hover {
-  color: #C3D898;
+  color: #550C18;
 }
 
 body {
@@ -53,4 +53,13 @@ section {
 
 .subheading {
   font-weight: bold;
+}
+
+@font-face {
+  font-family: "Monday";
+  src: url(css/fonts/mondayfeelings.ttf) format(truetype);
+}
+
+.recipe {
+  font-family: "Monday";
 }
