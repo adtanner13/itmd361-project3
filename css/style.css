@@ -1,3 +1,11 @@
+/* COLORS
+  Dark Red: #550C18
+  Light Green: #C3D898
+  Dark Green: #7EA16B
+  Light Blue: #3B5053
+  Dark Blue: #1C3144
+*/
+
 .navbar {
   text-align: center;
   padding: 10%;
@@ -10,5 +18,5 @@ html {
 
 body {
   font-family: Verdana;
-  background-color:#C3D898
+  background-color:#C3D898;
 }
