@@ -6,14 +6,18 @@
   Dark Blue: #1C3144
 */
 
-.navbar {
+* {
   text-align: center;
-  padding: 10%;
-  background-color: #550C18;
 }
 
 html {
   background-color: #7EA16B;
+}
+
+.navbar {
+  text-align: center;
+  padding: 10%;
+  background-color: #550C18;
 }
 
 body {
@@ -21,6 +25,11 @@ body {
   background-color:#C3D898;
 }
 
-* {
-  text-align: center;
+section {
+  padding: 10%;
+  max-width: 800px;
+  margin: 10% auto;
+  background-color: #C3D898;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
