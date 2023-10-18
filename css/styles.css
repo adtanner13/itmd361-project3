@@ -1,5 +1,5 @@
 /* COLORS
-  Dark Red: #550C18
+  Red: #850b1f
   Light Green: #C3D898
   Dark Green: #7EA16B
   Light Blue: #7cabb3;
@@ -14,13 +14,15 @@ html {
   background-color: #7EA16B;
 }
 
-.navbar {
+header {
   text-align: center;
   color: #395e64;
   padding: 2%;
   background-color: #1C3144;
-  width: 50%;
-  align-self: center;
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a:link, a:visited {
@@ -29,7 +31,7 @@ a:link, a:visited {
 }
 
 a:hover {
-  color: #550C18;
+  color: #850b1f;
 }
 
 body {
