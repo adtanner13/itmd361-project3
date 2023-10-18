@@ -38,6 +38,10 @@ body {
   margin-bottom: 2%;
 }
 
+ul, ol {
+  list-style-position: inside;
+}
+
 section {
   padding: 2%;
   max-width: 800px;
