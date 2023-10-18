@@ -2,7 +2,7 @@
   Dark Red: #550C18
   Light Green: #C3D898
   Dark Green: #7EA16B
-  Light Blue: #395e64
+  Light Blue: #7cabb3;
   Dark Blue: #1C3144
 */
 
@@ -20,10 +20,11 @@ html {
   padding: 2%;
   background-color: #1C3144;
   width: 50%;
+  align-self: center;
 }
 
 a:link, a:visited {
-  color: #395e64;
+  color: #7cabb3;
   text-decoration: none;
 }
 
