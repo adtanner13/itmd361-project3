@@ -39,7 +39,7 @@ body {
 }
 
 ul, ol {
-  list-style-position: inside;
+  text-align: left;
 }
 
 section {
