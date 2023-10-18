@@ -21,14 +21,13 @@ html {
 }
 
 body {
-  font-family: Verdana;
-  background-color:#C3D898;
+  font-family: Georgia;
 }
 
 section {
-  padding: 10%;
+  padding: 2%;
   max-width: 800px;
-  margin: 10% auto;
+  margin: 2% auto;
   background-color: #C3D898;
   border-radius: 5px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
