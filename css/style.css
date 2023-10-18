@@ -20,3 +20,7 @@ body {
   font-family: Verdana;
   background-color:#C3D898;
 }
+
+* {
+  text-align: center;
+}
