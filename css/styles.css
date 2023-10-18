@@ -54,14 +54,26 @@ section {
 }
 
 @font-face {
-  font-family: "Monday";
+  font-family: "MondayFeelings";
   src: url(css/fonts/mondayfeelings.ttf) format(truetype);
 }
 
 .recipe {
-  font-family: "Monday";
+  font-family: "MondayFeelings";
 }
 
-.center {
-  text-align: center;
+footer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #C3D898;
+  width: 25%;
+  padding: 1%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
