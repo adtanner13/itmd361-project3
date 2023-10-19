@@ -13,12 +13,9 @@ html {
 header {
   text-align: center;
   color: #395e64;
-  padding: 2%;
+  padding: 5%;
   background-color: #1C3144;
   width: 75%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   justify-content: space-evenly;
 }
 
