@@ -1,5 +1,5 @@
 /* COLORS
-  Red: #850b1f
+  Red: #bf243e
   Light Green: #C3D898
   Dark Green: #7EA16B
   Light Blue: #7cabb3;
@@ -20,6 +20,9 @@ header {
   margin-left: auto;
   margin-right: auto;
   justify-content: space-evenly;
+}
+
+head a {
   text-decoration: none;
 }
 
@@ -28,7 +31,7 @@ a:link, a:visited {
 }
 
 a:hover {
-  color: #850b1f;
+  color: #bf243e;
 }
 
 body {
