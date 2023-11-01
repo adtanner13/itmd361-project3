@@ -53,6 +53,10 @@ section {
   font-weight: bold;
 }
 
+.resume {
+  list-style: none;
+}
+
 @font-face {
   font-family: "MondayFeelings";
   src: url(css/fonts/mondayfeelings.ttf) format(truetype);
