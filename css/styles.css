@@ -24,6 +24,11 @@ header {
 
 head a {
   text-decoration: none;
+  padding: 5%;
+  display: block;
+  background-color: #1d3951;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a:link, a:visited {
@@ -56,7 +61,7 @@ section {
   font-weight: bold;
 }
 
-.resume {
+.resume ul {
   list-style: none;
 }
 
