@@ -22,7 +22,7 @@ header {
   justify-content: space-evenly;
 }
 
-head a {
+.nav {
   text-decoration: none;
   padding: 5%;
   display: block;
@@ -62,7 +62,7 @@ section {
 }
 
 .resume ul {
-  list-style: none;
+  list-style-type: none;
 }
 
 @font-face {
