@@ -25,6 +25,7 @@ header {
 .nav a {
   text-decoration: none;
   background-color: #1d3951;
+  padding: 3px;
 }
 
 a:link, a:visited {
