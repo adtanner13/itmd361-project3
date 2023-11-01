@@ -19,6 +19,7 @@ header {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: auto;
   justify-content: space-evenly;
 }
 
