@@ -19,14 +19,14 @@ header {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: auto;
+  margin-top: 20px;
   justify-content: space-evenly;
 }
 
 .nav a {
   text-decoration: none;
   background-color: #1d3951;
-  padding: 3px;
+  padding: 5px;
 }
 
 a:link, a:visited {
