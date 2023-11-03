@@ -13,6 +13,7 @@ html {
 nav {
   background-color: #1C3144;
   overflow: hidden;
+  height: 5%;
 }
 
 nav a {
