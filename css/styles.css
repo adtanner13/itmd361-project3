@@ -22,16 +22,12 @@ nav a {
   color: #c2d9dd;
 }
 
-nav a:hover {
-  background-color: #c2d9dd;
-  color: black;
-}
-
 nav a.active {
-  background-color: #830c20;
+  color: #e84e67;
+  background-color: #091826;
 }
 
-a:link, a:visited {
+a {
   color: #3e7078;
 }
 
