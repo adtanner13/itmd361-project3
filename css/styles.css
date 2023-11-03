@@ -30,16 +30,21 @@ nav a {
   float: center;
 }
 
+.topnav a:hover {
+  background-color: #3e7078;
+  color: #1d3951;
+}
+
 nav a .active {
-  background-color: cadetblue;
+  background-color: #bf243e;
 }
 
 a:link, a:visited {
-  color: #7cabb3;
+  color: #3e7078;
 }
 
 a:hover {
-  color: #bf243e;
+  color: #7cabb3;
 }
 
 body {
