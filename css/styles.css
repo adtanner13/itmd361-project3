@@ -13,7 +13,8 @@ html {
 nav {
   background-color: #1C3144;
   overflow: hidden;
-  float: top;
+  float: left;
+  left: 50%;
   display: flex;
   position: fixed;
   width: 100%;
