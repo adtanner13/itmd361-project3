@@ -31,6 +31,10 @@ nav a {
   font-size: large;
 }
 
+.active {
+  background-color: cadetblue;
+}
+
 a:link, a:visited {
   color: #7cabb3;
 }
