@@ -13,7 +13,6 @@ html {
 nav {
   background-color: #1C3144;
   overflow: hidden;
-  height: 50px;
   float: top;
   display: flex;
   position: fixed;
@@ -25,7 +24,7 @@ nav a {
   float: left;
   display: block;
   text-decoration: none;
-  padding: 8px;
+  padding: 20px;
   text-align: center;
   float: center;
 }
