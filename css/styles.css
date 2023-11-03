@@ -21,12 +21,11 @@ nav {
 }
 
 nav a {
-  float: left;
+  float: center;
   display: block;
   text-decoration: none;
   padding: 20px;
   text-align: center;
-  float: center;
 }
 
 nav a:hover {
