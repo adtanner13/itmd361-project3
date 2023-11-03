@@ -1,11 +1,3 @@
-/* COLORS
-  Red: #bf243e
-  Light Green: #C3D898
-  Dark Green: #7EA16B
-  Light Blue: #7cabb3;
-  Dark Blue: #1C3144
-*/
-
 html {
   background-color: #7EA16B;
 }
@@ -13,9 +5,8 @@ html {
 nav {
   background-color: #1C3144;
   overflow: hidden;
-  float: left;
-  left: 50%;
   display: flex;
+  justify-content: center;
   position: fixed;
   width: 100%;
   top: 0;
@@ -31,11 +22,11 @@ nav a {
 
 nav a:hover {
   background-color: #c2d9dd;
-  color: #1C3144;
+  color: black;
 }
 
 nav a.active {
-  background-color: #bf243e;
+  background-color: #830c20;
 }
 
 a:link, a:visited {
