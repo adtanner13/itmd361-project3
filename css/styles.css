@@ -12,32 +12,18 @@ html {
 
 nav {
   background-color: #1C3144;
-  width: 100%;
-  position: relative;
-}
-
-.old {
-  text-align: center;
-  color: #395e64;
-  padding: 5%;
-  background-color: #1C3144;
-  width: 75%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 20px;
-  justify-content: space-evenly;
-  font-size: large;
+  overflow: hidden;
 }
 
 nav a {
   text-decoration: none;
   background-color: #1d3951;
   padding: 5px;
-  font-size: large;
+  font-size: 20px;
+  text-align: center;
 }
 
-.active {
+nav a .active {
   background-color: cadetblue;
 }
 
