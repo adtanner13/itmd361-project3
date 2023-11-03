@@ -11,6 +11,12 @@ html {
 }
 
 nav {
+  background-color: #1C3144;
+  width: 100%;
+  position: relative;
+}
+
+.old {
   text-align: center;
   color: #395e64;
   padding: 5%;
