@@ -21,13 +21,14 @@ header {
   margin-right: auto;
   margin-top: 20px;
   justify-content: space-evenly;
+  font-size: large;
 }
 
 .nav a {
   text-decoration: none;
   background-color: #1d3951;
   padding: 5px;
-  font-size:large;
+  font-size: large;
 }
 
 a:link, a:visited {
