@@ -10,7 +10,7 @@ html {
   background-color: #7EA16B;
 }
 
-header {
+nav {
   text-align: center;
   color: #395e64;
   padding: 5%;
@@ -24,7 +24,7 @@ header {
   font-size: large;
 }
 
-.nav a {
+nav a {
   text-decoration: none;
   background-color: #1d3951;
   padding: 5px;
