@@ -16,13 +16,16 @@ nav {
   height: 50px;
   float: top;
   display: flex;
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
 
 nav a {
   float: left;
   display: block;
   text-decoration: none;
-  padding: 14px 16px;
+  padding: 8px;
   text-align: center;
   float: center;
 }
