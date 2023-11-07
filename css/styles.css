@@ -10,7 +10,6 @@ nav {
   position: fixed;
   width: 100%;
   top: 0;
-  margin-bottom: 50px;
 }
 
 nav a {
@@ -56,6 +55,7 @@ section {
   background-color: #C3D898;
   border-radius: 5px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
 }
 
 .subheading {
