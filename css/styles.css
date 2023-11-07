@@ -23,6 +23,10 @@ nav a {
   padding: 1%;
 }
 
+nav a:hover {
+  background-color: #122433;
+}
+
 nav a.active {
   color: #e84e67;
   background-color: #091826;
@@ -33,7 +37,7 @@ a {
 }
 
 a:hover {
-  background-color: #122433;
+  color: #62a3ad;
 }
 
 body {
