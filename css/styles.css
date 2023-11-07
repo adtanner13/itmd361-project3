@@ -10,7 +10,7 @@ nav {
   position: fixed;
   width: 100%;
   top: 0;
-  margin-bottom: auto;
+  margin-bottom: 50px;
 }
 
 nav a {
