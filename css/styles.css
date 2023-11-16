@@ -100,3 +100,26 @@ img {
 .center {
   text-align: center;
 }
+
+@media (min-width: 1300px) {
+  h1 {
+    font-family: monospace;
+    color: black;
+  }
+
+  img {
+    width: 25%;
+  }
+
+  section {
+    background-color: #c2d9dd;
+    color: black;
+  }
+}
+
+@media (min-width: 650) {
+  section {
+    background-color: #122433;
+    color: #c2d9dd;
+  }
+}
