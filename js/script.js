@@ -1,5 +1,6 @@
+var map;
 function initMap() {
-  var map = new google.maps.Map(document.getElementById('map'), {
+  map = new google.maps.Map(document.getElementById('map'), {
     center: { lat: 41.875887589005174, lng: -87.61892990185329 },
     zoom: 12,
   });
@@ -8,11 +9,6 @@ function initMap() {
     position: { lat: 41.88315734286764, lng: -87.62849807716722 },
     map: map,
   });
-
-  var infowindow = new google.maps.InfoWindow({
-    content: "Budlong Hot Chicken",
-  });
-  infowindow.open(map, marker);
 
   const icons = {
     thebudlong: {
@@ -33,4 +29,4 @@ function initMap() {
   }
 }
 
-google.maps.event.addDomListener(window, 'load', initMap);
+initMap();
