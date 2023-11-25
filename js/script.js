@@ -9,24 +9,6 @@ function initMap() {
     position: { lat: 41.88315734286764, lng: -87.62849807716722 },
     map: map,
   });
-
-  const icons = {
-    thebudlong: {
-      icon: "media/thebudlong.png",
-    },
-  };
-
-  var features = [
-    { position: { lat: 41.88315734286764, lng: -87.62849807716722 }, type: "thebudlong" },
-  ];
-
-  for (let i = 0; i < features.length; i++) {
-    const marker = new google.maps.Marker({
-      position: features[i].position,
-      icon: icons[features[i].type].icon,
-      map: map,
-    });
-  }
 }
 
 initMap();
