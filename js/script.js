@@ -9,6 +9,12 @@ function initMap() {
   const icons = {
     budlong: {
       icon: "media/thebudlong.png"
+    },
+    harolds: {
+      icon: "media/harolds.png"
+    },
+    flacos: {
+      icon: "medlia/flacos.png"
     }
   }
 
@@ -16,6 +22,14 @@ function initMap() {
     {
       position: new google.maps.LatLng(41.88315734286764, -87.62849807716722),
       type: "budlong",
+    },
+    {
+      position: new google.maps.LatLng(41.87404815649669, -87.62628470581892),
+      type: "harolds",
+    },
+    {
+      position: new google.maps.LatLng(41.873646269925445, -87.62882089678844),
+      type: "flacos",
     }
   ]
 
