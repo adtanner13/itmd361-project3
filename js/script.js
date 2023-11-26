@@ -14,7 +14,7 @@ function initMap() {
       icon: "media/harolds.png"
     },
     flacos: {
-      icon: "medlia/flacos.png"
+      icon: "media/flacos.png"
     }
   }
 
