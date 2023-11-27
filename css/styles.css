@@ -101,6 +101,14 @@ img {
   text-align: center;
 }
 
+#map {
+  height: 60%;
+  width: 60%;
+  position: absolute;
+  padding: 5%;
+  margin: 0;
+}
+
 @media (min-width: 1300px) {
   h1 {
     font-family: monospace;
@@ -117,17 +125,9 @@ img {
   }
 }
 
-@media (min-width: 650) {
+@media (min-width: 650px) {
   section {
     background-color: #122433;
     color: #c2d9dd;
   }
-}
-
-#map {
-  height: 60%;
-  width: 60%;
-  position: absolute;
-  padding: 5%;
-  margin: 0;
 }
