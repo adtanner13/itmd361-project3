@@ -102,9 +102,8 @@ img {
 }
 
 #map {
-  height: 60%;
-  width: 60%;
-  position: absolute;
+  width: 100%;
+  height: 100px;
   padding: 5%;
   margin: 0;
 }
