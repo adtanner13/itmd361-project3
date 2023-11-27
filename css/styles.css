@@ -8,8 +8,6 @@ nav {
   display: flex;
   justify-content: center;
   /* position: fixed; */
-  width: 100%;
-  height: auto;
   top: 0;
   font-size: large;
 }
@@ -104,4 +102,16 @@ img {
 #map {
   height: 650px;
   width: 100%;
+}
+
+@media (min-width: 1200px) {
+  section {
+    background-color: red;
+  }
+}
+
+@media (min-width: 600px) {
+  section {
+    background-color: #091826;
+  }
 }
