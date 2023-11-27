@@ -7,7 +7,7 @@ nav {
   overflow: hidden;
   display: flex;
   justify-content: center;
-  position: fixed;
+  /* position: fixed; */
   width: 100%;
   height: auto;
   top: 0;
