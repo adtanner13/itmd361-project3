@@ -108,26 +108,3 @@ img {
   padding: 5%;
   margin: 0;
 }
-
-@media (min-width: 1300px) {
-  h1 {
-    font-family: monospace;
-    color: black;
-  }
-
-  img {
-    width: 25%;
-  }
-
-  section {
-    background-color: #c2d9dd;
-    color: black;
-  }
-}
-
-@media (min-width: 650px) {
-  section {
-    background-color: #122433;
-    color: #c2d9dd;
-  }
-}
