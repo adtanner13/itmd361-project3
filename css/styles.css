@@ -104,13 +104,13 @@ img {
   width: 100%;
 }
 
-@media (min-width: 1200px) {
+@media (max-width: 1200px) {
   html {
     background-color: red;
   }
 }
 
-@media (min-width: 600px) {
+@media (max-width: 600px) {
   html {
     background-color: #091826;
   }
