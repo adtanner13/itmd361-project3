@@ -104,20 +104,16 @@ img {
   width: 100%;
 }
 
-@media screen and (max-width: 1200px) {
-  html {
-    background-color: #7EA16B;
-  }
-}
-
 @media screen and (max-width: 800px) {
-  html {
-    background-color: red;
+  section {
+    background-color: #4e858e;
+    color: #091826;
   }
 }
 
 @media screen and (max-width: 600px) {
-  html {
-    background-color: blue;
+  section {
+    background-color: #091826;
+    color: white;
   }
 }
