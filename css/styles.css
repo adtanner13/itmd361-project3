@@ -116,6 +116,9 @@ img {
   html {
     background-color: #4e858e;
   }
+  a {
+    color: #091826;
+  }
 }
 
 @media screen and (max-width: 600px) {
