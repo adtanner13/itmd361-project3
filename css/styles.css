@@ -9,7 +9,7 @@ nav {
   justify-content: center;
   /* position: fixed; */
   top: 0;
-  font-size: large;
+  font-size: x-large;
 }
 
 nav a {
@@ -106,8 +106,15 @@ img {
 
 @media screen and (max-width: 800px) {
   section {
-    background-color: #4e858e;
+    background-color: #c2d9dd;
     color: #091826;
+  }
+  nav {
+    font-size: large;
+    font-family: monospace;
+  }
+  html {
+    background-color: #4e858e;
   }
 }
 
@@ -115,5 +122,12 @@ img {
   section {
     background-color: #091826;
     color: white;
+  }
+  nav {
+    font-size: medium;
+    font-family: cursive;
+  }
+  html {
+    background-color: #C3D898;
   }
 }
