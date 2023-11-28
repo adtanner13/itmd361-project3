@@ -106,18 +106,18 @@ img {
 
 @media screen and (max-width: 1200px) {
   html {
-    background-color: red;
+    background-color: #7EA16B;
   }
 }
 
 @media screen and (max-width: 800px) {
   html {
-    background-color: blueviolet;
+    background-color: red;
   }
 }
 
 @media screen and (max-width: 600px) {
   html {
-    background-color: #7EA16B;
+    background-color: blue;
   }
 }
