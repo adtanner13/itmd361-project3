@@ -13,7 +13,6 @@ nav {
 }
 
 nav a {
-  float: center;
   display: block;
   text-decoration: none;
   padding: 20px;
